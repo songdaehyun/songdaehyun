@@ -1,16 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFE082&text=Hi,&nbsp;There!&nbsp;😄&height=200&fontSize=50&fontColor=FFFFFF&width=100)<br>
+### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goflwla92)](https://solved.ac/goflwla92)
-<br>
-<br>
+### 👩🏻‍💻 Experience
+**BG T&A (2023.10 - 2024.06)**  
+**삼성 청년 SW 아카데미 8기 (2022.07 - 2023.06)**  
+**CNU Pychology, Mathematics (2018 - 2022)**
+<br/>
 
-## Certificate
+### 💬 Certificate
 **`🪪` 2024 New TEPS 415(2+) 취득**  
 **`🪪` 2023 SQLD 취득**  
 **`🪪` 2023 PCCP LV.2 취득**  
 **`🪪` 2023 OPIc IL 취득**  
+<br>
 
+### 🌱 Algorithm
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goflwla92)](https://solved.ac/goflwla92)
 <br>
 <br>
 
