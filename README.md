@@ -10,8 +10,6 @@
 ### 💬 Certificate
 **`🪪` 2024 New TEPS 415(2+) 취득**  
 **`🪪` 2023 SQLD 취득**  
-**`🪪` 2023 PCCP LV.2 취득**  
-**`🪪` 2023 OPIc IM 취득**  
 <br>
 
 ### 🌱 Algorithm
