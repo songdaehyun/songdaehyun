@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ### 👩🏻‍💻 Experience
-**KCITS (2024.12 ~ )**  
-**BG T&A (2023.10 - 2024.06)**  
+**SNUH (2026.01 ~ )** 
+**KCITS (2024.12 ~ 2025.12)**  
+**BGTNA (2023.10 - 2024.06)**  
 **삼성 청년 SW 아카데미 8기 (2022.07 - 2023.06)**  
 **Major in Psychology, Minor in Mathematics at CNU (2018 - 2022)**
 <br/>
